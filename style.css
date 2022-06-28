@@ -1,7 +1,7 @@
 * {
   font-family: papyrus;
-  background-color: purple;
-  color: white; /* the text color */
+  background-color: beige;
+  color: navy; /* the text color */
 }
 
 body {
@@ -14,4 +14,5 @@ h1 {
 
 p {
   font-size: 30px;
+  font-family: "Brush Script MT", "Georgia";
 }
