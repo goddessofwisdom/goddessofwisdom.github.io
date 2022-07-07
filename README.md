@@ -6,3 +6,5 @@ https://www.w3schools.com/cssref/css_websafe_fonts.asp
 
 Example WebGL Spinning Cube:
 https://www.tutorialspoint.com/webgl/html5_canvas_overview.htm
+Example WebGL Triangle:
+https://www.tutorialspoint.com/webgl/webgl_drawing_a_triangle.htm
